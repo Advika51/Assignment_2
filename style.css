@@ -1,0 +1,170 @@
+ 
+  span{
+    margin:0 10px;
+  }
+  
+  a{
+    text-decoration: none;
+    color:#FF1744;
+    font-size: larger;
+  }
+  
+  a:visited
+  {
+      text-decoration: none;
+  }
+  
+  h1{
+    margin-bottom: 5px;
+    text-align: left;
+  }
+  
+  p{
+    margin:10px auto 10px auto;
+    text-align: left;
+  }
+  
+
+  .highlight {
+    background-color:#FCE5C2; 
+    display: inline-block;
+    text-align: right;
+  }
+  
+  
+  
+  .navbar{
+    background-color: black;
+    height: 60px;
+  }
+  
+  .its{
+    padding:30px 45px 0 ;
+    
+  }
+
+  img{
+    float: left;
+    margin-right: 20px;
+    width: 160px;
+    height: 180px; 
+    margin-top: 20px;
+    object-fit: cover ;
+  }
+  
+  .experience,.skills 
+  {
+    float: left;
+    text-align: center; 
+    width: 45%; 
+    margin: 0 2.5%;
+  }
+
+  .projects-head,
+  .certifications-head 
+  {
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 0; 
+   }
+
+
+   .project1,
+   .project2 
+   {
+    float: left; 
+    width: 40%; 
+    margin-right: 3%; 
+    margin-bottom: 0; 
+    margin-top: 40px; 
+    border: 2px solid #8A9A5B; 
+    border-radius: 8px; 
+    padding: 10px; 
+   }
+
+
+      .project1
+       {
+        margin-left: 6%;
+      }
+
+  .p1_pic,
+  .p2_pic 
+  {
+      float: left; 
+      width: 100px; 
+      margin-right: 18px; 
+  }
+
+  .p1_pic img,
+  .p2_pic img {
+      width: 110px; 
+      height: 140px; 
+      border-radius: 5px; 
+      margin-top: 40px; 
+      margin-bottom: 20px;
+      object-fit: cover
+  }
+
+  
+  .about-head{
+    margin-left:40px;
+    margin-top: 15px;
+  }
+
+  .education-head{
+    margin-left:40px;
+    margin-top: 15px;
+  }
+  
+  .experience-head{
+    margin-top:15px;
+   
+  }
+  
+
+  .foot{
+    font-size: 20px;
+    background-color: black;
+    height: 80px;
+    color:#FF1744;
+  }
+  .foot{
+    padding-left: 40px;
+    text-align: center;
+  }
+  
+  .foot a{
+    margin-right: 1000px;
+  }
+  .icon{
+    margin-left: 20px;
+  }
+  .navbar{
+    text-align: end;
+  }
+
+  
+
+
+  #about{
+    background-color: #FBFAF5; 
+    height: 250px;
+  }
+  #education{
+    background-color: #F0DEDE;
+    height: 250px;
+  }
+  #experience{
+    background-color:#F1EFF0;
+    height: 250px;
+  }
+  #projects{
+    background-color:#F7F4E5;
+    height: 370px;
+  }
+  #certifications{
+    background-color:#F5E6E6; 
+    height: 250px;
+  }
+  
